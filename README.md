@@ -60,4 +60,4 @@ I am a Software Engineering student at the **National University of Sciences and
 
 ### 📫 Connect With Me
 *   📧 **Email:** zunuraintahir5@gmail.com
-*   💼 **LinkedIn:** [linkedin.com/in/mzunuraintahir](https://www.linkedin.com) *(Update with your actual link suffix)*
+*   💼 **LinkedIn:** [linkedin.com/in/mzunuraintahir](https://www.linkedin.com) 
