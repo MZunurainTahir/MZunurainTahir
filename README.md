@@ -35,9 +35,9 @@ I am an engineering student at the National University of Sciences and Technolog
 ---
 
 ### 📈 GitHub Ecosystem Metrics
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MZunurainTahir&show_icons=true&theme=dark" alt="Zunurain's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MZunurainTahir&layout=compact&theme=dark" alt="Top Languages" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MZunurainTahir&theme=tokyonight" alt="Zunurain's Streak Stats" height="160" />
 </p>
 
 ---
