@@ -5,8 +5,8 @@
 
 *BS Software Engineering Student @ NUST SEECS (BESE-15, CGPA: 3.75/4.0)*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MZunurainTahir)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/comrade_121636)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MZunurainTahir)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/comrade_121636/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MZunurainTahir)
 [![FasalDoc Live](https://img.shields.io/badge/FasalDoc-Live%20Platform-00A86B?style=for-the-badge&logo=leaflet&logoColor=white)](https://fasaldoc.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zunuraintahir5@gmail.com)
@@ -47,7 +47,6 @@ I am an AI/ML Engineer and Software Engineer who has independently designed, bui
 > ### 🌾 **[FasalDoc (Live Platform)](https://fasaldoc.vercel.app)** | *Founder & CEO*
 > * **Description:** AI-powered crop & livestock disease diagnosis platform tailored for smallholder farmers across Pakistan. Built with a multi-provider LLM engine (Gemini, Groq, OpenRouter) featuring agricultural RAG fallback, offline-first mobile architecture, and full Urdu/English bilingual support.
 > * **Achievements:** 🥇 **1st Place Nationally** at the BanoQabil Alibaba Cloud AI Hackathon 2026.
-> * **Links:** [Live Production Platform](https://fasaldoc.vercel.app)
 
 > ### 📈 **Aegis Trading Agent** | *Alpaca AI Trading Hackathon*
 > * **Description:** Autonomous, risk-governed options-trading agent operating 24/7 with ~95% backtested accuracy. Generates portfolio income via systematic covered-call and cash-secured-put wheel strategies.
@@ -152,16 +151,20 @@ I am an AI/ML Engineer and Software Engineer who has independently designed, bui
 
 ---
 
-## 📊 Live GitHub Activity & Performance Analytics
+## 📊 Live GitHub Metrics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MZunurainTahir&theme=tokyonight&hide_border=true" alt="Zunurain's Streak Stats" width="48%" />
-<img src="https://github-readme-stats-two.vercel.app/api?username=MZunurainTahir&show_icons=true&theme=tokyonight&hide_border=true" alt="Zunurain's GitHub Stats" width="48%" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-stats-two.vercel.app/api/top-languages/?username=MZunurainTahir&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=MZunurainTahir&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
