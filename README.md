@@ -10,7 +10,7 @@
 ### 🚀 Overview & Research
 I am a Software Engineering student at the **National University of Sciences and Technology (NUST)**, specializing in end-to-end Machine Learning pipelines, sequential Deep Learning networks, and Generative AI systems. 
 
-*   **🏆 Academic Excellence:** Achieved **1st Position All Over Faisalabad Board** in F.Sc Pre-Engineering. Current CGPA at NUST: **3.2/4.0**.
+*   **🏆 Academic Excellence:** Achieved **1st Position All Over Faisalabad Board** in F.Sc Pre-Engineering. Current CGPA at NUST: **3.7/4.0**.
 *   **🔬 Systems Research:** Currently working as a **Research Intern on PakOS**, a kernel-level operating system research initiative under Prof. Tauqir-ur-Rehman, developing custom process scheduling algorithms and memory management layers.
 *   **💡 Industry Experience:** Former AI Assistant Developer Intern at **Software Productivity Strategists (NSTP)** working with IBM WatsonX LLM architectures, and ML Intern at **Quantum Logistics** optimizing routing models.
 
