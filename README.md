@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MZunurainTahir)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/comrade_121636/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MZunurainTahir)
-[![FasalDoc Live](https://img.shields.io/badge/FasalDoc-Live%20Platform-00A86B?style=for-the-badge&logo=leaflet&logoColor=white)](https://fasaldoc.vercel.app)
+[![FasalDoc Live](https://img.shields.io/badge/FasalDoc-Live%20Platform-00A86B?style=for-the-badge&logo=leaflet&logoColor=white)](https://build-nu-nine-56.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zunuraintahir5@gmail.com)
 
 ---
@@ -17,7 +17,7 @@
 
 ## 🌟 Executive Summary & Key Milestones
 
-I am an AI/ML Engineer and Software Engineer who has independently designed, built, and deployed **60+ end-to-end software and AI systems** (majority live on cloud platforms). My expertise spans Agentic AI, Retrieval-Augmented Generation (RAG), LLM orchestration, Computer Vision, Deep Learning, NLP, and Full-Stack Systems.
+I am an AI/ML Engineer and Software Engineer who has independently designed, built, and deployed **60+ end-to-end software and AI systems** (majority live on cloud platforms). My expertise spans Agentic AI, Advanced RAG Architectures, LLM Orchestration, Computer Vision, Deep Learning, Embedded Systems, and Full-Stack Systems Development.
 
 * 🏆 **1st Place Nationally (Pakistan-Wide):** Awarded 1st Rank at the **BanoQabil Alibaba Cloud AI Hackathon 2026** for **FasalDoc**—an AI crop and livestock disease diagnosis platform live in production.
 * 🚀 **Founder & Startup Leader:** Founder & CEO of **FasalDoc**; official **Startup Office Bearer** at **PIEAS (NextWaveLabs)** with startup incubation perks; incoming candidate for **NSTP’s DefTech Program**.
@@ -30,14 +30,15 @@ I am an AI/ML Engineer and Software Engineer who has independently designed, bui
 
 | Category | Specialized Technologies, Frameworks & Concepts |
 | :--- | :--- |
-| **Agentic AI & Autonomy** | Multi-Agent Orchestration, ReAct Framework, Autonomous Tool Use & Function Calling, Task Decompositions & Planning, Reflection & Self-Correction Loops, Dynamic Routing, Agent Memory Management (Short/Long-term), Human-in-the-Loop (HITL) Workflows, Guardrails & Governance, CrewAI, AutoGen, LangChain, LangGraph |
-| **Machine Learning (ML)** | Supervised & Unsupervised Learning, Feature Engineering, Hyperparameter Tuning, Model Evaluation & Metrics, Ensembles (Random Forest, XGBoost, LightGBM, Gradient Boosting), SVM, K-Means Clustering, PCA, Logistic & Linear Regression, MLOps, MLflow, Scikit-Learn |
-| **Deep Learning (DL)** | Neural Network Architectures, Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), LSTMs, GRUs, Transformers, Self-Attention & Multi-Head Attention, Transfer Learning (ResNet50, MobileNet, VGG), Optimization (Adam, SGD, Learning Rate Schedulers), PyTorch, TensorFlow, Keras |
-| **Natural Language Processing (NLP)** | Retrieval-Augmented Generation (RAG), Semantic Search, Vector Embeddings, Tokenization & Lemmatization, TF-IDF, Word2Vec, GloVe, BERT, Named Entity Recognition (NER), Intent Classification, Sentiment Analysis, Text Summarization, Sequence-to-Sequence Models, Hugging Face Transformers, Vector Databases (ChromaDB, Qdrant, Pinecone) |
-| **Programming Languages** | Python, C++, Java, JavaScript, TypeScript, SQL, Rust, Go, HTML5/CSS3, MATLAB |
-| **Full-Stack & APIs** | Node.js, Express, React, Next.js, Vue.js, FastAPI, Flask, RESTful API Design, GraphQL, WebSockets, Java REST APIs |
-| **Databases & Cloud** | PostgreSQL, MySQL, MongoDB, Redis, IBM Db2, Supabase, Vector Databases, AWS, GCP, IBM Cloud, Docker, Kubernetes, CI/CD Pipelines, Vercel, Railway |
-| **Low-Level Systems & Tools** | Linux Kernel Concepts, Process Scheduling, IDT/GDT Interrupts, Memory Paging, QEMU, OpenCV, Git, Postman, Wireshark, Cisco Packet Tracer, MySQL Workbench |
+| **Agentic AI & Autonomy** | Multi-Agent Systems, ReAct Framework, Dynamic Routing, Agentic Workflows, Function Calling, Autonomous Tool Use, Self-Reflection & Planning, Memory Management (Short-Term/Long-Term), Human-in-the-Loop (HITL), CrewAI, AutoGen, LangChain, LangGraph |
+| **LLMs & Generative AI** | OpenAI (GPT-4o, O1, Text-Embedding-3), Mistral, Gemini, Groq, OpenRouter, Prompt Engineering, Fine-Tuning, Parameter-Efficient Fine-Tuning (PEFT/LoRA), Quantization (GGUF, AWQ), IBM WatsonX, System Prompt Alignment |
+| **RAG & Search Systems** | Advanced Retrieval-Augmented Generation (RAG), Hybrid Search (BM25 + Dense Vectors), GraphRAG, Semantic Search, Chunking Strategies, Metadata Filtering, Cross-Encoder Re-ranking, Vector Databases (ChromaDB, Qdrant, Pinecone, Pgvector) |
+| **Machine Learning (ML)** | Supervised & Unsupervised Learning, Feature Engineering, Hyperparameter Optimization, Ensembles (XGBoost, Random Forest, LightGBM), SVM, K-Means, PCA, Regression, Classification, MLOps, MLflow, Scikit-Learn |
+| **Deep Learning (DL)** | Neural Network Architectures (ANN, CNN, RNN, LSTM, Transformers), Multi-Head Attention, Transfer Learning (ResNet50, MobileNet), Optimization Algorithms, PyTorch, TensorFlow, Keras |
+| **Full-Stack & Web Dev** | React.js, Next.js, Vue.js, Node.js, Express.js, FastAPI, Flask, RESTful APIs, GraphQL, WebSockets, HTML5/CSS3, Tailwind CSS, System Architecture, State Management, Responsive UI/UX Design |
+| **Databases & Storage** | PostgreSQL, MongoDB, MySQL, IBM Db2, Redis, Supabase, Vector Databases, Database Normalization, Query Optimization, Relational & NoSQL Schema Design |
+| **Embedded & Hardware** | Proteus PCB/Circuit Simulation, Atmel Studio, AVR Microcontrollers, Embedded C/C++, Interrupters & Timers, Hardware-Software Co-Design, Proteus Schematic Capture |
+| **Low-Level Systems & Cloud** | Linux Kernel Development, Process Scheduling, Memory Management (Paging/Segmentation), IDT/GDT Interrupts, QEMU, Docker, Kubernetes, AWS, GCP, Vercel, Railway, Git/GitHub |
 
 ---
 
@@ -45,8 +46,8 @@ I am an AI/ML Engineer and Software Engineer who has independently designed, bui
 
 ### 🤖 **Agentic AI, LLM & Hackathon Winners**
 
-> ### 🌾 **[FasalDoc (Live Platform)](https://fasaldoc.vercel.app)** | *Founder & CEO*
-> * **Description:** AI-powered crop & livestock disease diagnosis platform tailored for smallholder farmers across Pakistan. Built with a multi-provider LLM engine (Gemini, Groq, OpenRouter) featuring agricultural RAG fallback, offline-first mobile architecture, and full Urdu/English bilingual support.
+> ### 🌾 **[FasalDoc (Live Platform)](https://build-nu-nine-56.vercel.app/)** | *Founder & CEO*
+> * **Description:** AI-powered crop & livestock disease diagnosis platform tailored for smallholder farmers across Pakistan. Built with a multi-provider LLM engine (OpenAI, Gemini, Groq, OpenRouter) featuring agricultural RAG fallback, offline-first mobile architecture, and full Urdu/English bilingual support.
 > * **Achievements:** 🥇 **1st Place Nationally** at the BanoQabil Alibaba Cloud AI Hackathon 2026.
 
 > ### 📈 **Aegis Trading Agent** | *Alpaca AI Trading Hackathon*
@@ -167,11 +168,19 @@ I am an AI/ML Engineer and Software Engineer who has independently designed, bui
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-LangChain_&_LangGraph-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG System](https://img.shields.io/badge/RAG-Hybrid_Retrieval-00A86B?style=for-the-badge&logo=meta&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-Embedded_Sim-00599C?style=for-the-badge&logo=microchip&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
