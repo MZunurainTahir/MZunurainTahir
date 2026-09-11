@@ -17,7 +17,7 @@
 
 ## 🌟 Executive Summary & Key Milestones
 
-I am an AI/ML Engineer and Software Engineer who has independently designed, built, and deployed **60+ end-to-end software and AI systems** (majority live on cloud platforms). My expertise spans Agentic AI, Retrieval-Augmented Generation (RAG), LLM orchestration, Computer Vision, and Full-Stack Systems.
+I am an AI/ML Engineer and Software Engineer who has independently designed, built, and deployed **60+ end-to-end software and AI systems** (majority live on cloud platforms). My expertise spans Agentic AI, Retrieval-Augmented Generation (RAG), LLM orchestration, Computer Vision, Deep Learning, NLP, and Full-Stack Systems.
 
 * 🏆 **1st Place Nationally (Pakistan-Wide):** Awarded 1st Rank at the **BanoQabil Alibaba Cloud AI Hackathon 2026** for **FasalDoc**—an AI crop and livestock disease diagnosis platform live in production.
 * 🚀 **Founder & Startup Leader:** Founder & CEO of **FasalDoc**; official **Startup Office Bearer** at **PIEAS (NextWaveLabs)** with startup incubation perks; incoming candidate for **NSTP’s DefTech Program**.
@@ -28,15 +28,16 @@ I am an AI/ML Engineer and Software Engineer who has independently designed, bui
 
 ## 🛠️ Comprehensive Technical Ecosystem
 
-| Category | Specialized Technologies & Tooling |
+| Category | Specialized Technologies, Frameworks & Concepts |
 | :--- | :--- |
-| **Generative & Agentic AI** | LangChain, LangGraph, RAG Pipelines, Multi-Agent Systems, Vector Databases (Chroma, Qdrant), Semantic Search, IBM WatsonX, Prompt Engineering, LLM Orchestration (Gemini, Groq, OpenRouter, Mistral) |
-| **Deep Learning & ML** | PyTorch, TensorFlow, Keras, CNNs, RNNs, LSTMs, Transformers, Transfer Learning (ResNet50), Scikit-Learn, MLOps, Attention Mechanisms, Random Forest, SVM, K-Means Clustering, Feature Engineering |
-| **Languages & Core** | Python, C++, Java, SQL, JavaScript, HTML5/CSS3, MATLAB |
-| **Full-Stack & Back-End** | Node.js, React, Vue.js, FastAPI, Flask, RESTful API Architecture, Java REST APIs |
-| **Databases & Storage** | MySQL, MongoDB, IBM Db2, PostgreSQL, Vector Databases, SQL Normalization |
-| **DevOps & Cloud** | Docker, Containerization, CI/CD Pipelines, AWS, GCP, IBM Cloud, Vercel, Railway, Git & GitHub |
-| **Low-Level Systems & Tools** | Linux Kernel Concepts, Process Scheduling, Interrupt Handling (IDT/GDT), QEMU, OpenCV, Postman, Wireshark, Cisco Packet Tracer, MySQL Workbench, Unreal Engine 4, AutoCAD, Proteus |
+| **Agentic AI & Autonomy** | Multi-Agent Orchestration, ReAct Framework, Autonomous Tool Use & Function Calling, Task Decompositions & Planning, Reflection & Self-Correction Loops, Dynamic Routing, Agent Memory Management (Short/Long-term), Human-in-the-Loop (HITL) Workflows, Guardrails & Governance, CrewAI, AutoGen, LangChain, LangGraph |
+| **Machine Learning (ML)** | Supervised & Unsupervised Learning, Feature Engineering, Hyperparameter Tuning, Model Evaluation & Metrics, Ensembles (Random Forest, XGBoost, LightGBM, Gradient Boosting), SVM, K-Means Clustering, PCA, Logistic & Linear Regression, MLOps, MLflow, Scikit-Learn |
+| **Deep Learning (DL)** | Neural Network Architectures, Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), LSTMs, GRUs, Transformers, Self-Attention & Multi-Head Attention, Transfer Learning (ResNet50, MobileNet, VGG), Optimization (Adam, SGD, Learning Rate Schedulers), PyTorch, TensorFlow, Keras |
+| **Natural Language Processing (NLP)** | Retrieval-Augmented Generation (RAG), Semantic Search, Vector Embeddings, Tokenization & Lemmatization, TF-IDF, Word2Vec, GloVe, BERT, Named Entity Recognition (NER), Intent Classification, Sentiment Analysis, Text Summarization, Sequence-to-Sequence Models, Hugging Face Transformers, Vector Databases (ChromaDB, Qdrant, Pinecone) |
+| **Programming Languages** | Python, C++, Java, JavaScript, TypeScript, SQL, Rust, Go, HTML5/CSS3, MATLAB |
+| **Full-Stack & APIs** | Node.js, Express, React, Next.js, Vue.js, FastAPI, Flask, RESTful API Design, GraphQL, WebSockets, Java REST APIs |
+| **Databases & Cloud** | PostgreSQL, MySQL, MongoDB, Redis, IBM Db2, Supabase, Vector Databases, AWS, GCP, IBM Cloud, Docker, Kubernetes, CI/CD Pipelines, Vercel, Railway |
+| **Low-Level Systems & Tools** | Linux Kernel Concepts, Process Scheduling, IDT/GDT Interrupts, Memory Paging, QEMU, OpenCV, Git, Postman, Wireshark, Cisco Packet Tracer, MySQL Workbench |
 
 ---
 
@@ -155,10 +156,22 @@ I am an AI/ML Engineer and Software Engineer who has independently designed, bui
 
 <div align="center">
 
+### 💻 Languages & Frameworks Ecosystem
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-LangChain_&_LangGraph-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
