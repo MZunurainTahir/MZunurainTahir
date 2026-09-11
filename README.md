@@ -5,8 +5,8 @@
 
 *BS Software Engineering Student @ NUST SEECS (BESE-15, CGPA: 3.75/4.0)*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MZunurainTahir)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/comrade_121636/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MZunurainTahir)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/comrade_121636)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MZunurainTahir)
 [![FasalDoc Live](https://img.shields.io/badge/FasalDoc-Live%20Platform-00A86B?style=for-the-badge&logo=leaflet&logoColor=white)](https://fasaldoc.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zunuraintahir5@gmail.com)
@@ -47,20 +47,18 @@ I am an AI/ML Engineer and Software Engineer who has independently designed, bui
 > ### 🌾 **[FasalDoc (Live Platform)](https://fasaldoc.vercel.app)** | *Founder & CEO*
 > * **Description:** AI-powered crop & livestock disease diagnosis platform tailored for smallholder farmers across Pakistan. Built with a multi-provider LLM engine (Gemini, Groq, OpenRouter) featuring agricultural RAG fallback, offline-first mobile architecture, and full Urdu/English bilingual support.
 > * **Achievements:** 🥇 **1st Place Nationally** at the BanoQabil Alibaba Cloud AI Hackathon 2026.
-> * **Links:** [Live Production Platform](https://fasaldoc.vercel.app) • [GitHub Repository](https://github.com/MZunurainTahir/FasalDoc)
+> * **Links:** [Live Production Platform](https://fasaldoc.vercel.app)
 
-> ### 📈 **[Aegis Trading Agent](https://github.com/MZunurainTahir/Aegis)** | *Alpaca AI Trading Hackathon*
+> ### 📈 **Aegis Trading Agent** | *Alpaca AI Trading Hackathon*
 > * **Description:** Autonomous, risk-governed options-trading agent operating 24/7 with ~95% backtested accuracy. Generates portfolio income via systematic covered-call and cash-secured-put wheel strategies.
-> * **Links:** [GitHub Repository](https://github.com/MZunurainTahir/Aegis)
 
-> ### 🌡️ **[LooGuard Microclimate Monitor](https://github.com/MZunurainTahir/LooGuard)** | *FortyGuard Climate AI Hackathon*
+> ### 🌡️ **LooGuard Microclimate Monitor** | *FortyGuard Climate AI Hackathon*
 > * **Description:** AI-driven urban heat-stress monitoring system (Team RainCode) utilizing hyperlocal temperature intelligence to track thermal risk and extreme heat indices in real time.
-> * **Links:** [GitHub Repository](https://github.com/MZunurainTahir/LooGuard)
 
-> ### 🌐 **[Omnios Agentic Platform](https://github.com/MZunurainTahir/Omnios)**
+> ### 🌐 **Omnios Agentic Platform**
 > * **Description:** Open-source agentic AI platform featuring real-time speech processing, dynamic sentiment tagging, multi-LLM orchestration, and live web-scraping pipelines.
 
-> ### 🔬 **[Multi-Agent AI Researcher](https://github.com/MZunurainTahir/Multi-Agent-AI-Researcher)**
+> ### 🔬 **Multi-Agent AI Researcher**
 > * **Description:** Autonomous network of collaborating AI agents that search, analyze, and synthesize web data/documents into comprehensive technical reports.
 
 ---
@@ -105,13 +103,13 @@ I am an AI/ML Engineer and Software Engineer who has independently designed, bui
 
 ### 💻 **Software & Low-Level Operating Systems**
 
-> ### 🖥️ **[PAK-OS Development](https://github.com/MZunurainTahir/PAK-OS)**
+> ### 🖥️ **PAK-OS Development**
 > * **Description:** Custom operating system built from scratch featuring bootloader, kernel, memory management (paging/segmentation), process scheduling (Round Robin, Priority), interrupt handling (IDT/GDT), and CLI/GUI accessibility sub-systems (evaluated on QEMU).
 
-> ### ⚡ **[Mini Search Engine (C++ / DSA)](https://github.com/MZunurainTahir/Mini-Search-Engine)**
+> ### ⚡ **Mini Search Engine (C++ / DSA)**
 > * **Description:** High-performance search engine built with inverted indices, Trie prefix matching, and TF-IDF rankings for sub-millisecond Boolean search.
 
-> ### 🏫 **[NUST Campus Management System](https://github.com/MZunurainTahir/NUST-Campus-Management-System)**
+> ### 🏫 **NUST Campus Management System**
 > * **Description:** Full-stack campus super-app covering academics, ride-sharing, complaints, and marketplace transactions built with Java, REST APIs, and MySQL.
 
 * 💊 **E-Pharmacy Web Application:** Full-stack platform with medicine listing, inventory management, and secure checkout for 50+ SKUs on MySQL.
@@ -158,12 +156,12 @@ I am an AI/ML Engineer and Software Engineer who has independently designed, bui
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MZunurainTahir&theme=tokyonight&hide_border=true" alt="Zunurain's Streak Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api?username=MZunurainTahir&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Zunurain's GitHub Stats" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MZunurainTahir&theme=tokyonight&hide_border=true" alt="Zunurain's Streak Stats" width="48%" />
+<img src="https://github-readme-stats-two.vercel.app/api?username=MZunurainTahir&show_icons=true&theme=tokyonight&hide_border=true" alt="Zunurain's GitHub Stats" width="48%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-languages/?username=MZunurainTahir&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats-two.vercel.app/api/top-languages/?username=MZunurainTahir&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
 
 ---
 
